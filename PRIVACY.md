@@ -11,8 +11,7 @@ advertising, no tracking, no accounts, and no third-party data sharing.
 **Push notifications (off by default).** If you enable Notifications in the
 app, we store your anonymous push token (an identifier issued by the
 notification service) together with the app language and app version, solely
-to send you notifications about app updates, new R2 Motorsport apps and
-offers. Turning the toggle off deletes the token from our server. The token
+to send you notifications about app updates, new R2 Motorsport apps. Turning the toggle off deletes the token from our server. The token
 is not linked to your identity and is never used for tracking.
 
 **Cloud backup (off by default).** If you enable Cloud backup, a copy of your
